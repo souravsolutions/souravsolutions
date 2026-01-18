@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/originals/5e/a5/f6/5ea5f682ef3c1acf0d878ce4fac93b88.gif"/>
 ## 👋 Hey there!
 
 I'm **Sourav**, a self-taught developer from India.
